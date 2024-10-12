@@ -1,0 +1,4 @@
+#! /bin/zsh
+
+# Note: only run this for trusted apps
+brew install --cask  $appName --no-quarantine
